@@ -8,8 +8,5 @@ categories: 성재
 ​```python
 def print_hi(name):
   print("hello", name)
-print_hi('Tom')
+  print_hi('Tom')
 ​```
-
-테그는 [태그1],[태그2] 이렇게 만든다.
-#해쉬테그 ?
